@@ -24,7 +24,7 @@ h2{font-size: 16px;}
 input, select {width: 100%; box-sizing: border-box;padding: 10px;
 border: none; margin-bottom: 10px;}
 
-input [type="submit"] {color: white;background-color: #48c5ce;
+input[type="submit"]{color: white;background-color: #48c5ce;
 font-weight: bold;} 
 
 select {-moz-appearance: none;
